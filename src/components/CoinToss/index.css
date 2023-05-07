@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.greet1 {
+  background-color: aqua;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.greet2 {
+  background-color: beige;
+  height: 350px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image {
+  height: 105px;
+}
+.greet3 {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+.para {
+  padding-left: 25px;
+}
+.button {
+  background-color: rgb(238, 139, 11);
+  border: 0px;
+  cursor: pointer;
+}
+.para1 {
+  font-size: 35px;
+  color: burlywood;
+}
